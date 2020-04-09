@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-tests-solutions",
+  "version": "1.0.0",
+  "description": "Hexlet testing task solutions",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixdjoker/hexlet-tests-solutions.git"
+  },
+  "author": "Mikhail Orlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixdjoker/hexlet-tests-solutions/issues"
+  },
+  "homepage": "https://github.com/mixdjoker/hexlet-tests-solutions#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
