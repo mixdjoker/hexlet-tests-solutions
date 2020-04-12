@@ -8,6 +8,9 @@ publish:
 	npm publish --dry-run
 
 test:
-	npm test -s
+	@node --no-warnings test/test-index.js
+
+run:
+	@node --no-warnings src/index.js
 
 .PHONY: test

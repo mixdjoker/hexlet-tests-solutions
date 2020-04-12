@@ -1,3 +1,5 @@
 // @ts-check
 
-console.log('Test runnings for:');
+import wordCountTest from './assosiate_object.js';
+
+wordCountTest();
