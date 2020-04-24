@@ -15,3 +15,9 @@ const union = (...arrays) => {
 };
 
 export default union;
+
+
+// export default (first, ...rest) => {
+//   const concated = first.concat(...rest);
+//   return uniq(concated);
+// };
